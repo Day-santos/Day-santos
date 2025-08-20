@@ -6,17 +6,30 @@
 
 ###
 
-<p align="left">🎯 Objetivo: Me tornar Desenvolvedora Front End<br>🎲 Aberta a novas oportunidades e motivada para crescer como desenvolvedora.</p>
+<h1>👩‍💻Sobre mim </h1>
+
+<p>Sou uma desenvolvedora Front-End em início de carreira, apaixonada por tecnologia e sempre buscando aprender mais.  
+Comecei minha jornada em janeiro de 2025 e, desde então, venho estudando <strong> HTML, CSS, JavaScript </strong> e frameworks modernos para criar interfaces funcionais e atraentes.
+<br><br>
+💼 Atualmente, trabalho com logística, e estou em <strong>transição de carreira</strong> para a área de tecnologia.  
+Estou levando comigo toda a experiência adquirida na organização, gestão de processos e resolução de problemas para aplicá-la no desenvolvimento de soluções digitais. </p>
 
 ###
+<h1> 🎯 Objetivo </h1>
+<p align="left">🎯 Atualmente, estou focada em consolidar meus conhecimentos para conquistar minha primeira oportunidade como estagiária ou desenvolvedora júnior.
+<br><br>
+🎲 Aberta a novas oportunidades e motivada para crescer como desenvolvedora..</p>
 
+###
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Day-santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Day-santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+<br><br>
+<h1> 🛠 Tecnologias que estou aprendendo </h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
