@@ -20,6 +20,12 @@ Estou levando comigo toda a experiência adquirida na organização, gestão de 
 <br><br>
 🎲 Aberta a novas oportunidades e motivada para crescer como desenvolvedora..</p>
 
+
+###
+<br><br>
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Day-santos&layout=compact&hide_title=1&card_width=300" alt="Linguagem usada em meus repositórios" />
+  
 ###
 <br><br>
 <h1> 🛠 Tecnologias que estou aprendendo </h1>
